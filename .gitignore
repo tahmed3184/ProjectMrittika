@@ -1,0 +1,18 @@
+# Secrets — copy the .example versions and fill these in locally
+web/config.php
+firmware/npk_sensor_wifi/secrets.h
+
+# PHP dependencies (installed via `composer install` in web/)
+web/vendor/
+composer.lock
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Arduino build artifacts
+*.hex
+build/

@@ -1,0 +1,7 @@
+{
+    "name": "mrittika/web",
+    "description": "Web dashboard for the Mrittika soil monitoring system",
+    "require": {
+        "dompdf/dompdf": "^3.0"
+    }
+}
