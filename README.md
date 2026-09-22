@@ -80,4 +80,4 @@ manual run needed once configured.
   reference — it isn't wired into the app.
 
 ## Credits
-Built by Tanvir, supervised by Dr. Ohidujjaman, UIU.
+Built by Tanvir and his Group, UIU.
