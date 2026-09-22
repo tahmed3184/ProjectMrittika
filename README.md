@@ -6,7 +6,7 @@ ESP32, and uses that data to recommend suitable crops and fertilizer
 requirements.
 
 ![Mrittika hardware](docs/images/mrittika.png)
-![Mrittika dashboard](docs/images/project_mrittika_device.jpeg)
+![Mrittika dashboard](docs/images/project_mrittika_device.png)
 
 ## How it fits together
 
